@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Namviet2704
 - 👀 I'm studying at Phan Boi Chau high school for the gifted
-- 🌱 I’m currently learning c++
 - 💞️ My codeforces account is Namviet
 - 💞️ My contact:
 - IG: Namviet2704
