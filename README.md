@@ -10,7 +10,7 @@ Passionate about software development, systems architecture, and building practi
 - 💻 **Focus Areas:** Software Engineering, Algorithms & Data Structures, Systems Programming
 - 🌱 **Currently Learning:** Modern web frameworks, backend architecture, and database optimization
 - 💬 **Ask me about:** C/C++, Java, Python, and full-stack development basics
-- 📫 **How to reach me:** [vietnam.work.contact@example.com] <!-- Replace with your actual email -->
+- 📫 **How to reach me:** [nvnam2704@gmail.com] <!-- Replace with your actual email -->
 
 ---
 
